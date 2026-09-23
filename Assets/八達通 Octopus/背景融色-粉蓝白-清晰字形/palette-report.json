@@ -1,0 +1,97 @@
+{
+  "source_size": [
+    1558,
+    982
+  ],
+  "card_crop": [
+    29,
+    14,
+    1529,
+    960
+  ],
+  "card_size": [
+    1500,
+    946
+  ],
+  "card_ratio": 1.58562,
+  "dominant_colors": [
+    {
+      "hex": "#151A22",
+      "share": 0.144
+    },
+    {
+      "hex": "#090A0E",
+      "share": 0.119
+    },
+    {
+      "hex": "#594045",
+      "share": 0.1
+    },
+    {
+      "hex": "#53515F",
+      "share": 0.082
+    },
+    {
+      "hex": "#A5858B",
+      "share": 0.082
+    },
+    {
+      "hex": "#2A2D37",
+      "share": 0.079
+    },
+    {
+      "hex": "#443C42",
+      "share": 0.078
+    },
+    {
+      "hex": "#716166",
+      "share": 0.077
+    },
+    {
+      "hex": "#FBF6F6",
+      "share": 0.073
+    },
+    {
+      "hex": "#8B6B71",
+      "share": 0.067
+    },
+    {
+      "hex": "#C7BDC0",
+      "share": 0.051
+    },
+    {
+      "hex": "#8A8188",
+      "share": 0.05
+    }
+  ],
+  "accent_samples": {
+    "rose": {
+      "hex": "#785E61",
+      "share": 0.277
+    },
+    "blue": {
+      "hex": "#3F4965",
+      "share": 0.11
+    },
+    "light": {
+      "hex": "#FEFBFB",
+      "share": 0.075
+    },
+    "dark": {
+      "hex": "#171B21",
+      "share": 0.374
+    }
+  },
+  "logo_region": {
+    "card_pixel_box": [
+      68,
+      68,
+      591,
+      144
+    ],
+    "luminance_p10": 0.0015,
+    "luminance_median": 0.0139,
+    "luminance_p90": 0.0721,
+    "luminance_max": 0.4279
+  }
+}

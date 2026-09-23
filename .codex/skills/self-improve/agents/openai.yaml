@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wallet 前景纠错"
+  short_description: "复核卡面前景与已认可字形，避免融色时改动字体"
+  default_prompt: "使用 $self-improve 复核 Wallet 标识的前景范围与已认可字形，避免换色时改动字体或形状。"

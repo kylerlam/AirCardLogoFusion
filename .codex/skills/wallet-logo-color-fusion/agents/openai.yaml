@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wallet Logo 背景融色"
+  short_description: "按背景换色并锁定 Logo 字形、位置与透明度"
+  default_prompt: "使用 $wallet-logo-color-fusion 按新卡面背景为我认可的 Logo 换色，只改颜色，不改文字、字形或位置，并给出上传文件和预览。"
