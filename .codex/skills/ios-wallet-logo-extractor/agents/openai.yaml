@@ -1,0 +1,4 @@
+interface:
+  display_name: "iOS Wallet 卡面前景提取"
+  short_description: "提取可复用卡面标识，输出固定尺寸 SVG 与透明 PNG"
+  default_prompt: "使用 $ios-wallet-logo-extractor 从这张 Wallet NFC 截图提取可复用标识，生成固定尺寸 SVG 和透明 PNG，并归档到当前目录的 Assets。"
