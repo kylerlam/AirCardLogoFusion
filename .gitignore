@@ -1,0 +1,16 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+
+# Python local files
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local inputs and temporary files
+/private-inputs/
+*.log
+*.tmp
