@@ -1,0 +1,10 @@
+{
+  "source_size": [2160, 1216],
+  "card_crop": [116, 0, 2044, 1216],
+  "card_ratio": 1.58553,
+  "dominant_colors": ["#7E6265", "#4D2C32", "#7C5055", "#F2CFC9", "#CB999F"],
+  "accent_samples": {"rose": "#7B5559", "light": "#FDDEDB", "dark": "#4E2D32"},
+  "logo_region_luminance": {"p10": 0.0387, "median": 0.117, "p90": 0.148},
+  "fusion_colors": ["#FFD1DF", "#FFF3DC", "#F4B4C8"],
+  "readable_colors": ["#FFE5EC", "#FFFFFF", "#FFD4DF"]
+}

@@ -1,0 +1,123 @@
+{
+  "title": "Revolut Visa •••• 3786",
+  "card_box": [
+    54,
+    222,
+    1125,
+    897
+  ],
+  "regions": [
+    {
+      "id": "revolut",
+      "box": [
+        110,
+        278,
+        466,
+        365
+      ],
+      "supersample": 4,
+      "layers": [
+        {
+          "id": "revolut-path",
+          "fill": "#FFFFFF",
+          "min": [
+            195,
+            195,
+            195
+          ],
+          "max": [
+            255,
+            255,
+            255
+          ],
+          "min_area": 16,
+          "tolerance": 0.65
+        }
+      ]
+    },
+    {
+      "id": "virtual",
+      "box": [
+        887,
+        313,
+        1044,
+        350
+      ],
+      "supersample": 4,
+      "layers": [
+        {
+          "id": "virtual-path",
+          "fill": "#FFFFFF",
+          "min": [
+            195,
+            195,
+            195
+          ],
+          "max": [
+            255,
+            255,
+            255
+          ],
+          "min_area": 16,
+          "tolerance": 0.65
+        }
+      ]
+    },
+    {
+      "id": "masked-number",
+      "box": [
+        110,
+        803,
+        350,
+        850
+      ],
+      "supersample": 4,
+      "layers": [
+        {
+          "id": "masked-number-path",
+          "fill": "#FFFFFF",
+          "min": [
+            195,
+            195,
+            195
+          ],
+          "max": [
+            255,
+            255,
+            255
+          ],
+          "min_area": 16,
+          "tolerance": 0.65
+        }
+      ]
+    },
+    {
+      "id": "visa",
+      "box": [
+        838,
+        776,
+        1093,
+        862
+      ],
+      "supersample": 4,
+      "layers": [
+        {
+          "id": "visa-path",
+          "fill": "#FFFFFF",
+          "min": [
+            195,
+            195,
+            195
+          ],
+          "max": [
+            255,
+            255,
+            255
+          ],
+          "min_area": 16,
+          "tolerance": 0.65
+        }
+      ]
+    }
+  ]
+}

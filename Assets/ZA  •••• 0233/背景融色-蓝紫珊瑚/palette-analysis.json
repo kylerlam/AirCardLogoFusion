@@ -1,0 +1,123 @@
+{
+  "source_size": [
+    1536,
+    969
+  ],
+  "card_crop": [
+    0,
+    0,
+    1536,
+    969
+  ],
+  "card_size": [
+    1536,
+    969
+  ],
+  "card_ratio": 1.58514,
+  "dominant_colors": [
+    {
+      "hex": "#FEFEFE",
+      "share": 0.162
+    },
+    {
+      "hex": "#FFFFFF",
+      "share": 0.106
+    },
+    {
+      "hex": "#B4D3EA",
+      "share": 0.097
+    },
+    {
+      "hex": "#FEEFF8",
+      "share": 0.093
+    },
+    {
+      "hex": "#FFFDFF",
+      "share": 0.09
+    },
+    {
+      "hex": "#FFFCF4",
+      "share": 0.083
+    },
+    {
+      "hex": "#C0A1B1",
+      "share": 0.079
+    },
+    {
+      "hex": "#F9FCFA",
+      "share": 0.067
+    },
+    {
+      "hex": "#FEEDC1",
+      "share": 0.063
+    },
+    {
+      "hex": "#EFD2D1",
+      "share": 0.057
+    },
+    {
+      "hex": "#FEFDF7",
+      "share": 0.057
+    },
+    {
+      "hex": "#E2ECEC",
+      "share": 0.047
+    }
+  ],
+  "accent_samples": {
+    "rose": {
+      "hex": "#F9B2B8",
+      "share": 0.064
+    },
+    "blue": {
+      "hex": "#B4D3F3",
+      "share": 0.092
+    },
+    "light": {
+      "hex": "#FEFCFC",
+      "share": 0.786
+    },
+    "dark": {
+      "hex": "#121112",
+      "share": 0.0
+    }
+  },
+  "regions": {
+    "masked-number": {
+      "card_pixel_box": [
+        80,
+        831,
+        425,
+        904
+      ],
+      "luminance_p10": 0.4571,
+      "luminance_median": 0.9501,
+      "luminance_p90": 0.9917,
+      "luminance_max": 1.0
+    },
+    "issuer": {
+      "card_pixel_box": [
+        52,
+        40,
+        248,
+        240
+      ],
+      "luminance_p10": 0.5586,
+      "luminance_median": 0.9328,
+      "luminance_p90": 0.9791,
+      "luminance_max": 0.9936
+    },
+    "visa": {
+      "card_pixel_box": [
+        1134,
+        794,
+        1493,
+        914
+      ],
+      "luminance_p10": 0.3637,
+      "luminance_median": 0.9567,
+      "luminance_p90": 0.9911,
+      "luminance_max": 1.0
+    }
+  }
+}

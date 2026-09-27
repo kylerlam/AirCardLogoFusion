@@ -1,0 +1,39 @@
+{
+  "card": "ZA  •••• 0233",
+  "canvas": [
+    1536,
+    969
+  ],
+  "source": "screenshot-derived; no replacement fonts",
+  "checks": [
+    {
+      "file": "fusion-master.svg",
+      "geometry_unchanged": true,
+      "self_contained_vectors": true,
+      "bytes": 48532,
+      "sha256": "6a50454ea9544a968ab854ddb06519af07ab53c73f544ca437cbcf7067bf52e2"
+    },
+    {
+      "file": "fusion-readable-master.svg",
+      "geometry_unchanged": true,
+      "self_contained_vectors": true,
+      "bytes": 48532,
+      "sha256": "201c59b5ba76ec110314eba9536ff58205cf7a495b49c042fa04adce1fe561e7"
+    },
+    {
+      "file": "upload-fusion.svg",
+      "geometry_unchanged": true,
+      "self_contained_vectors": true,
+      "bytes": 48525,
+      "sha256": "c2ec62ff260fae01185f68a7bdc2c02b9754a84f5e7c0126e1ef0bc959310dfc"
+    },
+    {
+      "file": "upload-fusion-readable.svg",
+      "geometry_unchanged": true,
+      "self_contained_vectors": true,
+      "bytes": 48525,
+      "sha256": "9d6fce505cd1ca66c7800975f883098b02177f28a7b740385057db01abd459dc"
+    }
+  ],
+  "alpha_identical": true
+}

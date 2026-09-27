@@ -1,0 +1,26 @@
+{
+  "fusion": {
+    "geometry_and_noncolor_attributes_equal": true,
+    "alpha_bytes_equal": false,
+    "alpha_max_rounding_difference": 1,
+    "alpha_bounds_equal": true,
+    "raster_size": [
+      1536,
+      969
+    ],
+    "vector_shapes": 4,
+    "transparent": true
+  },
+  "fusion-bright": {
+    "geometry_and_noncolor_attributes_equal": true,
+    "alpha_bytes_equal": false,
+    "alpha_max_rounding_difference": 1,
+    "alpha_bounds_equal": true,
+    "raster_size": [
+      1536,
+      969
+    ],
+    "vector_shapes": 4,
+    "transparent": true
+  }
+}

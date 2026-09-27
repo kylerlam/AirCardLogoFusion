@@ -1,0 +1,50 @@
+{
+  "barclays-eagle": [
+    [
+      "#EED5B1",
+      "#F5E8D3",
+      "#D8E1E6"
+    ],
+    [
+      "#FFF8EB",
+      "#FFFFFF",
+      "#EDF5FC"
+    ]
+  ],
+  "barclays-wordmark": [
+    [
+      "#EED5B1",
+      "#F5E8D3",
+      "#D8E1E6"
+    ],
+    [
+      "#FFF8EB",
+      "#FFFFFF",
+      "#EDF5FC"
+    ]
+  ],
+  "masked-card-identifier": [
+    [
+      "#E6D7BD",
+      "#E6D7BD",
+      "#E6D7BD"
+    ],
+    [
+      "#FFF9EA",
+      "#FFF9EA",
+      "#FFF9EA"
+    ]
+  ],
+  "visa": [
+    [
+      "#E7CFAC",
+      "#EFE1CB",
+      "#CFDAE1"
+    ],
+    [
+      "#FFF8EA",
+      "#FFFFFF",
+      "#EEF4FA"
+    ]
+  ]
+}

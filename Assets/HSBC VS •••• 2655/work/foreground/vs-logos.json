@@ -1,0 +1,98 @@
+{
+  "title": "HSBC Visa Signature reusable card identifiers",
+  "card_box": [0, 0, 1536, 969],
+  "regions": [
+    {
+      "id": "hsbc-symbol",
+      "box": [930, 55, 1220, 210],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "hsbc-red",
+          "fill": "#E40421",
+          "min": [165, 0, 5],
+          "max": [255, 105, 115],
+          "diff_min": {"r-g": 85, "r-b": 70},
+          "min_area": 12,
+          "tolerance": 1.0
+        },
+        {
+          "id": "hsbc-white",
+          "fill": "#FFFFFF",
+          "min": [190, 190, 190],
+          "max": [255, 255, 255],
+          "min_area": 12,
+          "tolerance": 0.9
+        }
+      ]
+    },
+    {
+      "id": "hsbc-wordmark",
+      "box": [1218, 90, 1465, 175],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "hsbc-wordmark-white",
+          "fill": "#FFFFFF",
+          "min": [180, 180, 180],
+          "max": [255, 255, 255],
+          "min_area": 8,
+          "tolerance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "contactless",
+      "box": [1315, 345, 1490, 530],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "contactless-white",
+          "fill": "#FFFFFF",
+          "min": [180, 180, 180],
+          "max": [255, 255, 255],
+          "min_area": 8,
+          "tolerance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "visa-wordmark",
+      "box": [1110, 690, 1485, 855],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "visa-mid-silver",
+          "fill": "#BFC0C0",
+          "min": [112, 112, 112],
+          "max": [220, 220, 220],
+          "min_area": 10,
+          "tolerance": 0.8
+        },
+        {
+          "id": "visa-light-silver",
+          "fill": "#F4F4F4",
+          "min": [221, 221, 221],
+          "max": [255, 255, 255],
+          "min_area": 10,
+          "tolerance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "signature-wordmark",
+      "box": [1205, 840, 1490, 930],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "signature-silver",
+          "fill": "#9FA0A1",
+          "min": [108, 108, 108],
+          "max": [220, 225, 230],
+          "min_area": 6,
+          "tolerance": 0.8
+        }
+      ]
+    }
+  ]
+}

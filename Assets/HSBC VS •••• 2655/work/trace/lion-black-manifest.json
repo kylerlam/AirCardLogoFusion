@@ -1,0 +1,231 @@
+{
+  "title": "HSBC VS faceted lion",
+  "card_box": [
+    0,
+    0,
+    1536,
+    969
+  ],
+  "regions": [
+    {
+      "id": "faceted-lion",
+      "box": [
+        0,
+        0,
+        850,
+        969
+      ],
+      "supersample": 1,
+      "layers": [
+        {
+          "id": "facet-01",
+          "fill": "#1D1D1B",
+          "min": [
+            29,
+            29,
+            27
+          ],
+          "max": [
+            29,
+            29,
+            27
+          ],
+          "min_area": 8,
+          "tolerance": 1.2
+        },
+        {
+          "id": "facet-02",
+          "fill": "#232321",
+          "min": [
+            35,
+            35,
+            33
+          ],
+          "max": [
+            35,
+            35,
+            33
+          ],
+          "min_area": 8,
+          "tolerance": 1.2
+        },
+        {
+          "id": "facet-03",
+          "fill": "#272725",
+          "min": [
+            39,
+            39,
+            37
+          ],
+          "max": [
+            39,
+            39,
+            37
+          ],
+          "min_area": 8,
+          "tolerance": 1.2
+        },
+        {
+          "id": "facet-04",
+          "fill": "#2C2C2B",
+          "min": [
+            44,
+            44,
+            43
+          ],
+          "max": [
+            44,
+            44,
+            43
+          ],
+          "min_area": 8,
+          "tolerance": 1.2
+        },
+        {
+          "id": "facet-05",
+          "fill": "#323231",
+          "min": [
+            50,
+            50,
+            49
+          ],
+          "max": [
+            50,
+            50,
+            49
+          ],
+          "min_area": 8,
+          "tolerance": 1.2
+        },
+        {
+          "id": "facet-06",
+          "fill": "#424241",
+          "min": [
+            66,
+            66,
+            65
+          ],
+          "max": [
+            66,
+            66,
+            65
+          ],
+          "min_area": 8,
+          "tolerance": 1.2
+        },
+        {
+          "id": "facet-07",
+          "fill": "#474746",
+          "min": [
+            71,
+            71,
+            70
+          ],
+          "max": [
+            71,
+            71,
+            70
+          ],
+          "min_area": 8,
+          "tolerance": 1.2
+        },
+        {
+          "id": "facet-08",
+          "fill": "#5C5B5B",
+          "min": [
+            92,
+            91,
+            91
+          ],
+          "max": [
+            92,
+            91,
+            91
+          ],
+          "min_area": 8,
+          "tolerance": 1.2
+        },
+        {
+          "id": "facet-09",
+          "fill": "#666565",
+          "min": [
+            102,
+            101,
+            101
+          ],
+          "max": [
+            102,
+            101,
+            101
+          ],
+          "min_area": 8,
+          "tolerance": 1.2
+        },
+        {
+          "id": "facet-10",
+          "fill": "#706F6F",
+          "min": [
+            112,
+            111,
+            111
+          ],
+          "max": [
+            112,
+            111,
+            111
+          ],
+          "min_area": 8,
+          "tolerance": 1.2
+        },
+        {
+          "id": "facet-11",
+          "fill": "#7F7E7E",
+          "min": [
+            127,
+            126,
+            126
+          ],
+          "max": [
+            127,
+            126,
+            126
+          ],
+          "min_area": 8,
+          "tolerance": 1.2
+        },
+        {
+          "id": "facet-12",
+          "fill": "#919090",
+          "min": [
+            145,
+            144,
+            144
+          ],
+          "max": [
+            145,
+            144,
+            144
+          ],
+          "min_area": 8,
+          "tolerance": 1.2
+        },
+        {
+          "id": "facet-13",
+          "fill": "#D8D8D5",
+          "min": [
+            216,
+            216,
+            213
+          ],
+          "max": [
+            216,
+            216,
+            213
+          ],
+          "min_area": 8,
+          "tolerance": 1.2
+        }
+      ]
+    }
+  ]
+}

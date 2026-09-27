@@ -1,0 +1,29 @@
+{
+  "title": "HSBC Red visible masked card number",
+  "card_box": [55, 223, 1128, 898],
+  "regions": [
+    {
+      "id": "masked-number",
+      "box": [105, 798, 360, 855],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "masked-number-dark",
+          "fill": "#111111",
+          "min": [0, 0, 0],
+          "max": [75, 75, 75],
+          "diff_max": {
+            "r-g": 18,
+            "g-r": 18,
+            "r-b": 18,
+            "b-r": 18,
+            "g-b": 18,
+            "b-g": 18
+          },
+          "min_area": 10,
+          "tolerance": 0.8
+        }
+      ]
+    }
+  ]
+}

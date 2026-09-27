@@ -1,0 +1,123 @@
+{
+  "source_size": [
+    1536,
+    969
+  ],
+  "card_crop": [
+    0,
+    0,
+    1536,
+    969
+  ],
+  "card_size": [
+    1536,
+    969
+  ],
+  "card_ratio": 1.58514,
+  "dominant_colors": [
+    {
+      "hex": "#FCF7DF",
+      "share": 0.126
+    },
+    {
+      "hex": "#F9D47D",
+      "share": 0.117
+    },
+    {
+      "hex": "#F5BB60",
+      "share": 0.116
+    },
+    {
+      "hex": "#FFFEE7",
+      "share": 0.1
+    },
+    {
+      "hex": "#FEFCE1",
+      "share": 0.091
+    },
+    {
+      "hex": "#FEFCE8",
+      "share": 0.084
+    },
+    {
+      "hex": "#E29E51",
+      "share": 0.075
+    },
+    {
+      "hex": "#FDE792",
+      "share": 0.075
+    },
+    {
+      "hex": "#FFFEEE",
+      "share": 0.069
+    },
+    {
+      "hex": "#FCF4C9",
+      "share": 0.068
+    },
+    {
+      "hex": "#DFBF7A",
+      "share": 0.058
+    },
+    {
+      "hex": "#E9D9AD",
+      "share": 0.022
+    }
+  ],
+  "accent_samples": {
+    "rose": {
+      "hex": "#EDAFB8",
+      "share": 0.004
+    },
+    "blue": {
+      "hex": "#BCD3F7",
+      "share": 0.007
+    },
+    "light": {
+      "hex": "#FEFBE1",
+      "share": 0.642
+    },
+    "dark": {
+      "hex": "#0E0E09",
+      "share": 0.005
+    }
+  },
+  "regions": {
+    "masked-number": {
+      "card_pixel_box": [
+        80,
+        831,
+        425,
+        904
+      ],
+      "luminance_p10": 0.7221,
+      "luminance_median": 0.7813,
+      "luminance_p90": 0.8372,
+      "luminance_max": 0.8769
+    },
+    "issuer": {
+      "card_pixel_box": [
+        126,
+        60,
+        644,
+        220
+      ],
+      "luminance_p10": 0.9188,
+      "luminance_median": 0.9715,
+      "luminance_p90": 0.9855,
+      "luminance_max": 0.9889
+    },
+    "mastercard-wordmark": {
+      "card_pixel_box": [
+        1096,
+        256,
+        1410,
+        315
+      ],
+      "luminance_p10": 0.9537,
+      "luminance_median": 0.9711,
+      "luminance_p90": 0.9844,
+      "luminance_max": 0.9878
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "title": "HSBC Visa Signature visible masked card number",
+  "card_box": [55, 223, 1128, 898],
+  "regions": [
+    {
+      "id": "masked-number",
+      "box": [105, 798, 360, 855],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "masked-number-white",
+          "fill": "#FFFFFF",
+          "min": [180, 180, 180],
+          "max": [255, 255, 255],
+          "min_area": 10,
+          "tolerance": 0.8
+        }
+      ]
+    }
+  ]
+}

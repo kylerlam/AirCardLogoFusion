@@ -1,0 +1,111 @@
+{
+  "title": "MOX •••• 7051 — screenshot-derived vector foreground",
+  "card_box": [
+    54,
+    222,
+    1125,
+    896
+  ],
+  "regions": [
+    {
+      "id": "masked-number",
+      "box": [
+        110,
+        800,
+        350,
+        851
+      ],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "masked-number-paths",
+          "fill": "#FFFFFF",
+          "min": [
+            220,
+            220,
+            220
+          ],
+          "max": [
+            255,
+            255,
+            255
+          ],
+          "min_area": 30,
+          "tolerance": 0.65,
+          "diff_max": {
+            "g-r": 22,
+            "b-r": 22,
+            "r-g": 22,
+            "r-b": 22,
+            "g-b": 22,
+            "b-g": 22
+          }
+        }
+      ]
+    },
+    {
+      "id": "issuer",
+      "box": [
+        142,
+        264,
+        503,
+        375
+      ],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "issuer-paths",
+          "fill": "#FFFFFF",
+          "min": [
+            155,
+            220,
+            220
+          ],
+          "max": [
+            255,
+            255,
+            255
+          ],
+          "min_area": 30,
+          "tolerance": 0.65
+        }
+      ]
+    },
+    {
+      "id": "mastercard-wordmark",
+      "box": [
+        818,
+        400,
+        1037,
+        441
+      ],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "mastercard-wordmark-paths",
+          "fill": "#FFFFFF",
+          "min": [
+            110,
+            110,
+            110
+          ],
+          "max": [
+            255,
+            255,
+            255
+          ],
+          "min_area": 30,
+          "tolerance": 0.65,
+          "diff_max": {
+            "g-r": 45,
+            "b-r": 45,
+            "r-g": 45,
+            "r-b": 45,
+            "g-b": 45,
+            "b-g": 45
+          }
+        }
+      ]
+    }
+  ]
+}

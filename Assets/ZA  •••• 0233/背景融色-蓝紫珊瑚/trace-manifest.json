@@ -1,0 +1,119 @@
+{
+  "title": "ZA  •••• 0233 — screenshot-derived vector foreground",
+  "card_box": [
+    54,
+    222,
+    1125,
+    896
+  ],
+  "regions": [
+    {
+      "id": "masked-number",
+      "box": [
+        110,
+        800,
+        350,
+        851
+      ],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "masked-number-paths",
+          "fill": "#FFFFFF",
+          "min": [
+            220,
+            220,
+            220
+          ],
+          "max": [
+            255,
+            255,
+            255
+          ],
+          "min_area": 30,
+          "tolerance": 0.65,
+          "diff_max": {
+            "g-r": 22,
+            "b-r": 22,
+            "r-g": 22,
+            "r-b": 22,
+            "g-b": 22,
+            "b-g": 22
+          }
+        }
+      ]
+    },
+    {
+      "id": "issuer",
+      "box": [
+        90,
+        250,
+        227,
+        389
+      ],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "issuer-paths",
+          "fill": "#C8CBCC",
+          "min": [
+            135,
+            135,
+            135
+          ],
+          "max": [
+            255,
+            255,
+            255
+          ],
+          "min_area": 30,
+          "tolerance": 0.65,
+          "diff_max": {
+            "g-r": 15,
+            "b-r": 15,
+            "r-g": 15,
+            "r-b": 15,
+            "g-b": 15,
+            "b-g": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "visa",
+      "box": [
+        845,
+        774,
+        1095,
+        858
+      ],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "visa-paths",
+          "fill": "#BFC0C0",
+          "min": [
+            125,
+            125,
+            125
+          ],
+          "max": [
+            255,
+            255,
+            255
+          ],
+          "min_area": 30,
+          "tolerance": 0.65,
+          "diff_max": {
+            "g-r": 15,
+            "b-r": 15,
+            "r-g": 15,
+            "r-b": 15,
+            "g-b": 15,
+            "b-g": 15
+          }
+        }
+      ]
+    }
+  ]
+}

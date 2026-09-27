@@ -1,0 +1,135 @@
+{
+  "source_size": [
+    1536,
+    969
+  ],
+  "card_crop": [
+    0,
+    0,
+    1536,
+    969
+  ],
+  "card_size": [
+    1536,
+    969
+  ],
+  "card_ratio": 1.58514,
+  "dominant_colors": [
+    {
+      "hex": "#FBE2E5",
+      "share": 0.212
+    },
+    {
+      "hex": "#FBE0E5",
+      "share": 0.166
+    },
+    {
+      "hex": "#DCBCC0",
+      "share": 0.139
+    },
+    {
+      "hex": "#FEFEFE",
+      "share": 0.099
+    },
+    {
+      "hex": "#776961",
+      "share": 0.09
+    },
+    {
+      "hex": "#E8D4C0",
+      "share": 0.072
+    },
+    {
+      "hex": "#FDE3E6",
+      "share": 0.07
+    },
+    {
+      "hex": "#FEF4EB",
+      "share": 0.047
+    },
+    {
+      "hex": "#FDDEDF",
+      "share": 0.038
+    },
+    {
+      "hex": "#F7E6E2",
+      "share": 0.037
+    },
+    {
+      "hex": "#FBE4DB",
+      "share": 0.028
+    },
+    {
+      "hex": "#FDE2DC",
+      "share": 0.002
+    }
+  ],
+  "accent_samples": {
+    "rose": {
+      "hex": "#E8BDC6",
+      "share": 0.111
+    },
+    "blue": {
+      "hex": "#A6C0D5",
+      "share": 0.01
+    },
+    "light": {
+      "hex": "#FCE2E4",
+      "share": 0.723
+    },
+    "dark": {
+      "hex": "#28201A",
+      "share": 0.021
+    }
+  },
+  "regions": {
+    "masked-number": {
+      "card_pixel_box": [
+        80,
+        831,
+        425,
+        904
+      ],
+      "luminance_p10": 0.5956,
+      "luminance_median": 0.8056,
+      "luminance_p90": 0.8757,
+      "luminance_max": 0.9987
+    },
+    "issuer": {
+      "card_pixel_box": [
+        817,
+        76,
+        1443,
+        227
+      ],
+      "luminance_p10": 0.5708,
+      "luminance_median": 0.7867,
+      "luminance_p90": 0.9898,
+      "luminance_max": 1.0
+    },
+    "visa": {
+      "card_pixel_box": [
+        1134,
+        736,
+        1494,
+        858
+      ],
+      "luminance_p10": 0.654,
+      "luminance_median": 0.7948,
+      "luminance_p90": 0.9817,
+      "luminance_max": 1.0
+    },
+    "infinite": {
+      "card_pixel_box": [
+        1305,
+        871,
+        1496,
+        922
+      ],
+      "luminance_p10": 0.0504,
+      "luminance_median": 0.7858,
+      "luminance_p90": 0.9064,
+      "luminance_max": 1.0
+    }
+  }
+}

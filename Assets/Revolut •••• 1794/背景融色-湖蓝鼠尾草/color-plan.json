@@ -1,0 +1,50 @@
+{
+  "revolut": [
+    [
+      "#283C48",
+      "#334540",
+      "#2C3B43"
+    ],
+    [
+      "#EAF1F5",
+      "#FCFCF2",
+      "#E2EADB"
+    ]
+  ],
+  "virtual": [
+    [
+      "#DCE7DB",
+      "#EEEBDD",
+      "#D3E2E7"
+    ],
+    [
+      "#F9FFF4",
+      "#FFFFFA",
+      "#EFFAFF"
+    ]
+  ],
+  "masked-number": [
+    [
+      "#E8EEE5",
+      "#CFDAD6",
+      "#2F3E43"
+    ],
+    [
+      "#FFFFF8",
+      "#F7FAF3",
+      "#596C76"
+    ]
+  ],
+  "visa": [
+    [
+      "#D6E4E9",
+      "#EBEEE3",
+      "#DAE1CC"
+    ],
+    [
+      "#EFFAFF",
+      "#FFFFF7",
+      "#F1FBE4"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "card": "WISE •••• 3649",
+  "canvas": [
+    1536,
+    969
+  ],
+  "source": "screenshot-derived; no replacement fonts",
+  "checks": [
+    {
+      "file": "fusion-master.svg",
+      "geometry_unchanged": true,
+      "self_contained_vectors": true,
+      "bytes": 81543,
+      "sha256": "eab393729d22c6addc7329f4c3a0973c624d605520cedccbdc69a1f49e738f5b"
+    },
+    {
+      "file": "fusion-readable-master.svg",
+      "geometry_unchanged": true,
+      "self_contained_vectors": true,
+      "bytes": 81543,
+      "sha256": "140fd86349fe5624d0d65becd8847c8dcc61311758e05c53ec269cf518287c11"
+    },
+    {
+      "file": "upload-fusion.svg",
+      "geometry_unchanged": true,
+      "self_contained_vectors": true,
+      "bytes": 81536,
+      "sha256": "13e9c2b3b7fd68ef6a3d7781e5ba36328787e547defea25c790c141620b4e1c4"
+    },
+    {
+      "file": "upload-fusion-readable.svg",
+      "geometry_unchanged": true,
+      "self_contained_vectors": true,
+      "bytes": 81536,
+      "sha256": "2e39f575894353efbcec3c6da905029beda01b4999e4576b334be078595e6610"
+    }
+  ],
+  "alpha_identical": true
+}

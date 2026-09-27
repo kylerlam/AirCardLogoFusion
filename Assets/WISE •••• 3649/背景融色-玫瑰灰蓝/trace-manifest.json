@@ -1,0 +1,155 @@
+{
+  "title": "WISE •••• 3649 — screenshot-derived vector foreground",
+  "card_box": [
+    54,
+    222,
+    1125,
+    896
+  ],
+  "regions": [
+    {
+      "id": "masked-number",
+      "box": [
+        110,
+        800,
+        350,
+        851
+      ],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "masked-number-paths",
+          "fill": "#FFFFFF",
+          "min": [
+            220,
+            220,
+            220
+          ],
+          "max": [
+            255,
+            255,
+            255
+          ],
+          "min_area": 30,
+          "tolerance": 0.65,
+          "diff_max": {
+            "g-r": 22,
+            "b-r": 22,
+            "r-g": 22,
+            "r-b": 22,
+            "g-b": 22,
+            "b-g": 22
+          }
+        }
+      ]
+    },
+    {
+      "id": "issuer",
+      "box": [
+        624,
+        275,
+        1060,
+        380
+      ],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "issuer-paths",
+          "fill": "#FFFFFF",
+          "min": [
+            224,
+            224,
+            220
+          ],
+          "max": [
+            255,
+            255,
+            255
+          ],
+          "min_area": 30,
+          "tolerance": 0.65,
+          "diff_max": {
+            "g-r": 16,
+            "b-r": 16,
+            "r-g": 16,
+            "r-b": 16,
+            "g-b": 16,
+            "b-g": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "visa",
+      "box": [
+        845,
+        734,
+        1096,
+        819
+      ],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "visa-paths",
+          "fill": "#FFFFFF",
+          "min": [
+            235,
+            235,
+            222
+          ],
+          "max": [
+            255,
+            255,
+            255
+          ],
+          "min_area": 30,
+          "tolerance": 0.65,
+          "diff_max": {
+            "g-r": 22,
+            "b-r": 22,
+            "r-g": 22,
+            "r-b": 22,
+            "g-b": 22,
+            "b-g": 22
+          }
+        }
+      ]
+    },
+    {
+      "id": "infinite",
+      "box": [
+        964,
+        828,
+        1097,
+        863
+      ],
+      "supersample": 3,
+      "layers": [
+        {
+          "id": "infinite-paths",
+          "fill": "#FFFFFF",
+          "min": [
+            232,
+            232,
+            220
+          ],
+          "max": [
+            255,
+            255,
+            255
+          ],
+          "min_area": 30,
+          "tolerance": 0.65,
+          "diff_max": {
+            "g-r": 22,
+            "b-r": 22,
+            "r-g": 22,
+            "r-b": 22,
+            "g-b": 22,
+            "b-g": 22
+          }
+        }
+      ]
+    }
+  ]
+}

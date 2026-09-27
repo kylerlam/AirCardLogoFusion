@@ -1,0 +1,39 @@
+{
+  "card": "MOX •••• 7051",
+  "canvas": [
+    1536,
+    969
+  ],
+  "source": "screenshot-derived; no replacement fonts",
+  "checks": [
+    {
+      "file": "fusion-master.svg",
+      "geometry_unchanged": true,
+      "self_contained_vectors": true,
+      "bytes": 58394,
+      "sha256": "88464733763d91b41e182e58eda1896b16c935c25e638cc4ac7487bfa5460913"
+    },
+    {
+      "file": "fusion-readable-master.svg",
+      "geometry_unchanged": true,
+      "self_contained_vectors": true,
+      "bytes": 58394,
+      "sha256": "0a79b38548115653cdb8f3d3cde6ea7bf08b2b36720c7ed2cf31575584be4436"
+    },
+    {
+      "file": "upload-fusion.svg",
+      "geometry_unchanged": true,
+      "self_contained_vectors": true,
+      "bytes": 58387,
+      "sha256": "712afcb3ead67f3ac8fb7f8c545333eb9d3dab85860811d6f37c7eb02276026a"
+    },
+    {
+      "file": "upload-fusion-readable.svg",
+      "geometry_unchanged": true,
+      "self_contained_vectors": true,
+      "bytes": 58387,
+      "sha256": "b3346ba98caeefd8d3ced8962da942d4f31ee4ddd17a43caf93a67234718edc2"
+    }
+  ],
+  "alpha_identical": true
+}
